@@ -1,5 +1,5 @@
 ---
-title: saThURING
+title: [saThURING]
 subtitle: my website
 layout: page
 ---
